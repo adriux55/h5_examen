@@ -1,0 +1,51 @@
+body{background-image: url(
+    img/Board\ Game\ Background\ Blue.jpg
+);}
+
+.menu{color: rgb(255, 255, 255); font-size: 20px; padding: 10px; width: 100%; border: 0px; background-color: #143487; text-align: center;font-family: "Oswald", sans-serif; text-decoration: white;}
+
+ul{display: flex; list-style: none;}
+
+div.blue{color: rgb(0, 0, 0); font-size: 30px; padding: 10px; width: 100px; border: 0px; background-color: #143487; text-align: right; font-family: "Oswald", sans-serif;}
+
+div.yellow{color: rgb(0, 0, 0); font-size: 30px; padding: 10px; width: 100px; border: 0px; background-color: #FCD21F; text-align: left; font-family: "Oswald", sans-serif;}
+
+h2.yellow{color: rgb(0, 0, 0); font-size: 30px; text-align: left; font-family: "Oswald", sans-serif; padding: 10px;}
+
+h2.blue{color: rgb(255, 255, 255); font-size: 30px; text-align: right; font-family: "Oswald", sans-serif; padding: 10px; border: 0;}
+
+p.blue{color: rgb(255, 255, 255); font-size: 20px; text-align: right; margin: 10px;font-family: "Raleway", sans-serif; font-optical-sizing: auto; padding-bottom: 10px;}
+
+p.yellow{color: rgb(0, 0, 0); font-size: 20px; text-align: left; margin: 10px;font-family: "Raleway", sans-serif; font-optical-sizing: auto; padding-bottom: 10px;}
+
+div.block{color: rgb(0, 0, 0); font-size: 30px; padding: 10px; width: 550px; border: 5px solid gold; background-color: rgb(6, 0, 61); text-align: center;}
+
+footer{background-color: #143487; font-size: 30px;text-align: center; margin: 0px;padding-left: 50px;padding-right: 50px; color: white; vertical-align: middle;font-family: "Raleway", sans-serif;}
+
+.title{color: black;text-align: center;font-size: 30px; font-family: 'Times New Roman', Times, serif;}
+
+.wrapper, img{width: 100%;height: 100%;}
+
+.bg1{background-image: url(img/Yellow\ Trans.png), url(img/Juegos\ Populares.png); background-repeat: no-repeat,no-repeat; background-position: right; background-size: 100%,70%;}
+.bg2{background-image: url(img/Blue\ Trans.png),url(img/Juegos\ Familiares.png);background-repeat: no-repeat; background-position: left; background-size: 100%,70%;}
+.bg3{background-image: url(img/Yellow\ Trans.png), url(img/Juegos\ de\ Fiesta.png);background-repeat: no-repeat; background-position: right; background-size: 100%,70%;}
+.bg4{background-image: url(img/Blue\ Trans.png),url(img/Juegos\ Avanzados.png);background-repeat: no-repeat; background-position: left; background-size: 100%,70%;}
+.bg5{background-image: url(img/Yellow\ Trans.png), url(img/Juegos\ de\ un\ Solo\ Jugador.png);background-repeat: no-repeat; background-position: right; background-size: 100%,70%;}
+.bg6{background-image: url(img/Blue\ Trans.png),url(img/Juegos\ de\ Rol.png);background-repeat: no-repeat; background-position: left; background-size: 100%,70%;}
+
+.bordb{border: white solid; background-color: #143487;}
+.bordy{border: black solid; background-color: #FCD21F;}
+
+h2.carb{color: white;font-family: "Oswald", sans-serif; font-size: 40px;background-color: #477AC6; display: block;margin-left: auto;margin-right: auto;width: 50%; text-align: center;}
+h2.cary{color: black;font-family: "Oswald", sans-serif; font-size: 40px;background-color: #FCD21F; display: block;margin-left: auto;margin-right: auto;width: 50%; text-align: center;}
+
+p.carb{color: white;font-family: "Raleway", sans-serif;font-size: 30px;background-color: #477AC6;display: block;margin-left: auto;margin-right: auto;width: 50%;}
+p.cary{color: black;font-family: "Raleway", sans-serif;font-size: 30px;background-color: #FCD21F;display: block;margin-left: auto;margin-right: auto;width: 50%;}
+
+.cent{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+.btxy{color: black;background-color: #FCD21F; font-family: "Raleway", sans-serif; font-size: 25px;}
+.btxb{color: white;background-color: #143487; font-family: "Raleway", sans-serif;font-size: 20px;}
